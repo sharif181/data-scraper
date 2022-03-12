@@ -7,6 +7,10 @@ name = "pypi"
 requests = "*"
 xmltodict = "*"
 pandas = "*"
+selenium = "*"
+requests-html = "*"
+bs4 = "*"
+pandas-read-xml = "*"
 
 [dev-packages]
 

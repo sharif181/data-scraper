@@ -2,3 +2,5 @@
 person_database.db
 person_database.db-shm
 person_database.db-wal
+chromedriver.exe
+testfile.py
